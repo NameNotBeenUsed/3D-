@@ -1,0 +1,7 @@
+﻿  Triangle_Lesson1.cpp
+f:\学习\3d编程\实验\blend\triangle_lesson1\triang~1\triangle_lesson1.cpp(25): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+f:\学习\3d编程\实验\blend\triangle_lesson1\triang~1\triangle_lesson1.cpp(18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\学习\3d编程\实验\blend\triangle_lesson1\triang~1\triangle_lesson1.cpp(19): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\学习\3d编程\实验\blend\triangle_lesson1\triang~1\triangle_lesson1.cpp(21): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+f:\学习\3d编程\实验\blend\triangle_lesson1\triang~1\triangle_lesson1.cpp(22): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  Triangle_Lesson1.vcxproj -> F:\学习\3D编程\实验\blend\Triangle_Lesson1\TRIANG~1\x64\Debug\Triangle_Lesson1.exe
